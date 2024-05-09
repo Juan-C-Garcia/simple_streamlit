@@ -12,3 +12,6 @@ The algorithms can be divided into three categories: display functions, result f
 
 Ethical Concerns: 
 Elections and their results should be viewed in the time and space that they occurred. Looking at data from a screenshot can obfuscate and alter the reality of what occurred. For example, President Barack Obama galvanized supporters who typically do not vote. Both similar and polar opposite to the 2016 presidential bid of Donald Trump, who galvanized supporters who have felt ostracized by politics. This application aims to help them better understand the trends and derive important insights.
+
+
+link : https://electionapp.streamlit.app/ 
