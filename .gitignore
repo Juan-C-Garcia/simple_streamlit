@@ -8,6 +8,7 @@ __pycache__*
 scratch.ipynb
 data*
 environment.yml
+app.py
 # *.pickle
 
 # macOS
