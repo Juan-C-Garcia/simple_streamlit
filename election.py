@@ -2,6 +2,7 @@ import streamlit as sl
 import os
 import pandas as pd
 import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import plotly.express as px
@@ -11,7 +12,6 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     counties = json.load(response)
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import pairwise_distances
-import seaborn as sns
 
 
 from dotenv import load_dotenv
